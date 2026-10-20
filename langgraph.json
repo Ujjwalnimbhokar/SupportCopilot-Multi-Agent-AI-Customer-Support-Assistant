@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "supportcopilot": "./langgraph_entry.py:graph"
+  },
+  "env": ".env"
+}

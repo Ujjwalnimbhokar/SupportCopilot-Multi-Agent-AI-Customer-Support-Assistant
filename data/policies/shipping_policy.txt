@@ -1,0 +1,10 @@
+SHOPEASY SHIPPING POLICY
+Policy ID: SHIPPING-001
+
+1. Standard shipping normally takes 3 to 7 business days after dispatch.
+2. Processing orders have not yet been dispatched. A carrier tracking number may not be available until dispatch.
+3. Shipped orders may display a carrier and tracking status when those details are available in the order record.
+4. Delivery dates displayed before dispatch are estimates, not guaranteed commitments.
+5. If a package is more than 3 business days past its estimated delivery date, the customer may ask support to investigate.
+6. Support must use the actual order record for an individual order's status and delivery details.
+This policy does not guarantee compensation for shipping delays.
