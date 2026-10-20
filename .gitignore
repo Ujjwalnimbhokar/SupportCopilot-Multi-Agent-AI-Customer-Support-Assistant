@@ -1,10 +1,18 @@
+# Secrets
 .env
+
+# Python
 .venv/
 __pycache__/
 *.py[cod]
+.pytest_cache/
+
+# SQLite runtime and database files
 *.sqlite
 *.sqlite3
+*.db
+*-shm
+*-wal
+
+# ChromaDB
 chroma_db/
-.pytest_cache/
-.ruff_cache/
-.streamlit/secrets.toml
